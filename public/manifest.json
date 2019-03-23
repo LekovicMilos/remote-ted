@@ -1,0 +1,15 @@
+{
+  "short_name": "Remote Ted",
+  "name": "Remote Ted - Remote jobs board",
+  "icons": [
+    {
+      "src": "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/26814991_265359637329349_4463049566268717316_n.jpg?_nc_cat=107&_nc_ht=scontent.fbeg2-1.fna&oh=c847cf628ee35a45c9359df480bcd475&oe=5D1D18F2",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
