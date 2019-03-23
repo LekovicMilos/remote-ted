@@ -45,7 +45,6 @@ class Jobs extends Component {
     return (
       <Fragment>
         {isFetching && <LinearProgress />}
-        {console.log('isFetching ', isFetching)}
       <div className={classes.cardsWrapper}>
         <Typography component="h1" variant="h1" className={classes.title}>Remote jobs</Typography>
         <Typography component="h5" variant="subheading" className={classes.jobsCount}>{Jobs.length} jobs found</Typography>
